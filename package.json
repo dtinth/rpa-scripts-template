@@ -1,0 +1,17 @@
+{
+  "name": "rpa-scripts-template",
+  "version": "0.0.0",
+  "description": "A template for RPA scripts",
+  "private": true,
+  "keywords": [],
+  "author": "",
+  "packageManager": "pnpm@10.32.1",
+  "type": "module",
+  "dependencies": {
+    "playwright-core": "^1.58.2"
+  },
+  "devDependencies": {
+    "@tsconfig/node24": "^24.0.4",
+    "@types/node": "^24.12.0"
+  }
+}
